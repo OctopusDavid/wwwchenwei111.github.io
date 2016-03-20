@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://wwwchenwei111.github.io/atom.xml" rel="self"/>
+  <link href="http://wwwchenwei111.github.io/"/>
+  <updated>2016-03-20T14:25:54+08:00</updated>
+  <id>http://wwwchenwei111.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Jikexueyuan]]></title>
+    <link href="http://wwwchenwei111.github.io/blog/2016/03/17/jikexueyuan/"/>
+    <updated>2016-03-17T12:44:34+08:00</updated>
+    <id>http://wwwchenwei111.github.io/blog/2016/03/17/jikexueyuan</id>
+    <content type="html"><![CDATA[<h1>你好，极客学院</h1>
+
+<h2>你可以学到你想要的</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<p>-Andoid
+   -http
+   -sqlite<br/>
+-PHP
+-HTML</p>
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.jikexueyuan.com">极客学院</a></p>
+
+<p><img src="http://j.jikexueyuan.com/Current/home/css/violent/web/tcweb2.png" alt="image" /></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>dsjajfdsajfdsjfafjdla</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>gsggfdgfgfgfs
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://wwwchenwei111.github.io/blog/2016/03/17/hello/"/>
+    <updated>2016-03-17T12:44:34+08:00</updated>
+    <id>http://wwwchenwei111.github.io/blog/2016/03/17/hello</id>
+    <content type="html"><![CDATA[<h1>你好，极客学院</h1>
+
+<h2>你可以学到你想要的</h2>
+]]></content>
+  </entry>
+  
+</feed>
